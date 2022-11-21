@@ -1,0 +1,49 @@
+.space{
+    margin-top: 150px;
+}
+
+.img{
+    width: 250px;
+}
+
+.width-board{
+    width: 96%;
+    height: 55px;
+}
+
+.formulario{
+    width: 400px;
+    border: 1px solid rgba(190, 190, 190, 0.4);
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 1px 2px #c9c9c9;
+    background-color: white;
+}
+
+.btn-config{
+    height: 55px;
+    background-color: rgb(88, 207, 64);
+}
+
+.margin-config{
+    margin-bottom: 10px;
+}
+
+.inlineConfig{
+    display: inline;
+}
+
+.divConfig{
+    width: 400px;
+    font-size: 12px;
+}
+
+.linkConfig{
+    text-decoration: none;
+}
+
+.input{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
