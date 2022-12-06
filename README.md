@@ -24,4 +24,4 @@
  </table>
  
  
- ⚠️ Disclaimer : Cloned for educational purposes only.
+ ⚠️ Disclaimer: Cloned for educational purposes only.
